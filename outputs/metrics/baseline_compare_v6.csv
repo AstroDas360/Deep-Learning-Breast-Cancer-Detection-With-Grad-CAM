@@ -1,0 +1,3 @@
+backbone,val_loss,val_acc,val_auc,unfreeze_note
+resnet50,0.7441596388816833,0.5871670842170715,0.646003246307373,unfrozen last ~10 layers
+vgg16,0.8742724061012268,0.6041162014007568,0.5768955945968628,unfrozen last 4 conv layers

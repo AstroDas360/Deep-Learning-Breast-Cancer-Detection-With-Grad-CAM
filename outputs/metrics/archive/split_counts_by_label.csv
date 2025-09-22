@@ -1,0 +1,3 @@
+split,Malignant,Non-malignant
+train,2172,3346
+val,544,836

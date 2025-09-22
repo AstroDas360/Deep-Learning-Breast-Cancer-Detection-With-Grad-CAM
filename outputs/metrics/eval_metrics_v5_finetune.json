@@ -1,0 +1,6 @@
+{
+  "model_file": "/Users/dash/Desktop/SIMNotes/Y3S2/CM3070_FP/Breast_Cancer_Project/models/best_model_full_v5_finetune.keras",
+  "roc_auc": 0.6509164878397711,
+  "acc@0.5": 0.610774818401937,
+  "n_val": 1652
+}

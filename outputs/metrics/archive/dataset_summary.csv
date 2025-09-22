@@ -1,0 +1,5 @@
+label_name,view,n_images
+Malignant,CC,1358
+Malignant,MLO,1358
+Non-malignant,CC,2091
+Non-malignant,MLO,2091

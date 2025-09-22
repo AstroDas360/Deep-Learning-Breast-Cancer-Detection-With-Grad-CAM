@@ -1,0 +1,9 @@
+{
+  "model_file": "/Users/dash/Desktop/SIMNotes/Y3S2/CM3070_FP/Breast_Cancer_Project/models/best_model_fullv2.keras",
+  "roc_auc": 0.5995618741058655,
+  "pr_auc": 0.6778292091396401,
+  "acc@0.5": 0.572639225181598,
+  "acc@youdenJ": 0.572639225181598,
+  "best_threshold_youdenJ": 0.5506802201271057,
+  "n_val": 1652
+}
