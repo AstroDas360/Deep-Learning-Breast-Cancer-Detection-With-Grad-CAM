@@ -21,6 +21,13 @@ Refer to the main codes in the following paths:
 - `streamlit_app/` – UI files 
 - `requirements.txt` - pip install
 
+How the structure looks:
+
+
+<img width="184" height="484" alt="image" src="https://github.com/user-attachments/assets/9da03306-68d5-4658-92bc-20b48f56f824" />
+
+
+
 ### Note: due to the upload size limit, I am unable to upload the rest of my files: the dataset, the models and saved images.
 
 ## Quick start
