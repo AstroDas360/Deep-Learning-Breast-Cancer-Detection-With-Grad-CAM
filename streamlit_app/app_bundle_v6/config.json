@@ -1,0 +1,14 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "last_conv": "conv5_block3_3_conv",
+  "class_names": [
+    "Non-malignant",
+    "Malignant"
+  ],
+  "threshold": 0.5,
+  "preprocess": "vgg",
+  "letterbox": true
+}

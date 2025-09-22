@@ -1,0 +1,13 @@
+{
+  "img_size": [
+    224,
+    224
+  ],
+  "last_conv": "block5_conv3",
+  "class_names": [
+    "Non-malignant",
+    "Malignant"
+  ],
+  "threshold": 0.5,
+  "zscore": "per_image"
+}
