@@ -2,10 +2,14 @@
 CM3070 Final Project Codebase
 
 Refer to the main codes in the following paths:
-/workspaces/Deep-Learning-Breast-Cancer-Detection/notebooks/b_cancer_final_v6.ipynb
-/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app.py
-/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app_bundle_v6/preprocess.py
-/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app_bundle_v6/gradcam_utils.py
+
+[/workspaces/Deep-Learning-Breast-Cancer-Detection/notebooks/b_cancer_final_v6.ipynb](https://github.com/AstroDas360/Deep-Learning-Breast-Cancer-Detection-With-Grad-CAM/blob/main/notebook/b_cancer_final_v6.ipynb)
+
+[/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app.py](https://github.com/AstroDas360/Deep-Learning-Breast-Cancer-Detection-With-Grad-CAM/blob/main/streamlit_app/app.py)
+
+[/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app_bundle_v6/preprocess.py](https://github.com/AstroDas360/Deep-Learning-Breast-Cancer-Detection-With-Grad-CAM/blob/main/streamlit_app/app_bundle_v6/preprocess.py)
+
+[/workspaces/Deep-Learning-Breast-Cancer-Detection/streamlit_app/app_bundle_v6/preprocess.py](https://github.com/AstroDas360/Deep-Learning-Breast-Cancer-Detection-With-Grad-CAM/blob/main/streamlit_app/app_bundle_v6/gradcam_utils.py)
 
 
 ## Structure
